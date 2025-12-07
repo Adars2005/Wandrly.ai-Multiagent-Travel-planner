@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+pydantic
+streamlit
+pandas
+google-generativeai
+dateparser
+dotenv
