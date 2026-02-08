@@ -19,7 +19,7 @@ Prerequisites
 •	Gemini API key
 
 Clone Repository
-git clone https://github.com/yourusername/ai-travel-planner.git
+git clone https://github.com/Adars2005/Wandrly.ai-Multiagent-Travel-planner.git
 
 cd ai-travel-planner
 Create Virtual Environment
